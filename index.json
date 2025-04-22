@@ -1,0 +1,98 @@
+{
+    "ans": {
+        "additional_properties": {
+            "has_published_copy": true,
+            "is_published": true,
+            "publish_date": "2025-04-07T21:45:07.197Z"
+        },
+        "canonical_website": "elcomercio",
+        "content_elements": [
+            {
+                "_id": "XIHOMQXKIJCFRLQFG7QGWTSY6A",
+                "additional_properties": {
+                    "comments": [],
+                    "inline_comments": []
+                },
+                "content": "contenido de nota",
+                "type": "text"
+            }
+        ],
+        "content_restrictions": {
+            "content_code": "free"
+        },
+        "created_date": "2025-04-07T21:32:12.674Z",
+        "credits": {
+            "by": [
+                {
+                    "referent": {
+                        "id": "redaccion-prueba",
+                        "provider": "",
+                        "referent_properties": {},
+                        "type": "author"
+                    },
+                    "type": "reference"
+                }
+            ]
+        },
+        "display_date": "2025-04-07T21:45:07.197Z",
+        "distributor": {
+            "category": "staff",
+            "name": "elcomercio",
+            "subcategory": ""
+        },
+        "first_publish_date": "2025-04-07T21:45:07.197Z",
+        "headlines": {
+            "basic": "titulo hoy lunes 7 de abril",
+            "meta_title": "titulo hoy lunes 7 de abril",
+            "mobile": "",
+            "native": "",
+            "print": "",
+            "tablet": "",
+            "web": ""
+        },
+        "last_updated_date": "2025-04-07T21:45:25.584Z",
+        "owner": {
+            "id": "sandbox.elcomercio",
+            "sponsored": false
+        },
+        "planning": {
+            "story_length": {
+                "character_count_actual": 17,
+                "inch_count_actual": 1,
+                "line_count_actual": 1,
+                "word_count_actual": 3
+            }
+        },
+        "publish_date": "2025-04-07T21:45:25.513Z",
+        "related_content": {
+            "basic": [],
+            "clonedChildren": [],
+            "clonedFromParent": []
+        },
+        "revision": {
+            "branch": "default",
+            "editions": [
+                "default"
+            ],
+            "parent_id": "2WA343NUJRAA7OFIBNR7WVCZRE",
+            "published": true,
+            "revision_id": "OVTEYSJSJNA5RBMGMK5I3VZUXI",
+            "user_id": "leonel.navarro@fractalservicios.pe"
+        },
+        "source": {
+            "name": "elcomercio",
+            "source_type": "staff",
+            "system": "composer"
+        },
+        "subheadlines": {
+            "basic": "subtitulo"
+        },
+        "subtype": "gallery_slider",
+        "type": "story",
+        "version": "0.10.10",
+        "workflow": {
+            "note": "",
+            "status_code": 1
+        }
+    }
+}
